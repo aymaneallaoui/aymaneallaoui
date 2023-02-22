@@ -14,7 +14,7 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aymaneallaoui&repo=weather-app&theme=chartreuse-dark" alt="weather-app" />
 </a>
 <a href="https://github.com/aymaneallaoui">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneallaoui&theme=chartreuse-dark" alt="codestats-profile-readme" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneallaoui&layout=compact&theme=chartreuse-dark" alt="codestats-profile-readme" />
 </a>
 
   ### My stats
