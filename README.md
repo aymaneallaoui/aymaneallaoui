@@ -1,10 +1,8 @@
 ### Hi there, I'm aymane! 👋
 
 <a href="https://github.com/aymaneallaoui">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymaneallaoui)](https://github.com/anuraghazra/github-readme-stats)" />
-</a>
-
-### My latest projects
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymaneallaoui&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ### My latest projects
 
 <a href="https://github.com/aymaneallaoui/codestats-profile-readme">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
