@@ -17,6 +17,11 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneallaoui&theme=chartreuse-dark" alt="codestats-profile-readme" />
 </a>
 
+  ### My stats
+
+<a href="https://github.com/aymaneallaoui">
+  <img align="middle" src="https://streak-stats.demolab.com/?user=aymaneallaoui&theme=dark" alt="codestats-profile-readme" />
+</a>
 ---
 
 ⭐️ From [aymaneallaoui](https://github.com/aymaneallaoui)
