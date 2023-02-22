@@ -1,7 +1,7 @@
 ### Hi there, I'm aymane! 👋
 
 <a href="https://github.com/aymaneallaoui">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYMANEan&show_icons=true" alt="AYMANE GitHub Stats" />
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymaneallaoui)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 
 ### My latest projects
