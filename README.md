@@ -22,6 +22,7 @@
 <a href="https://github.com/aymaneallaoui">
   <img align="middle" src="https://streak-stats.demolab.com/?user=aymaneallaoui&theme=dark" alt="codestats-profile-readme" />
 </a>
+
 ---
 
 ⭐️ From [aymaneallaoui](https://github.com/aymaneallaoui)
