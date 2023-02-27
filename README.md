@@ -10,8 +10,8 @@
 <a href="https://github.com/aymaneallaoui/mmd-script">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aymaneallaoui&repo=mmd-script&theme=chartreuse-dark" alt="codestats-profile-readme" />
 </a>
-<a href="https://github.com/aymaneallaoui/weather-app">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aymaneallaoui&repo=weather-app&theme=chartreuse-dark" alt="weather-app" />
+<a href="https://github.com/aymaneallaoui/python-to-c">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aymaneallaoui&repo=python-to-c&theme=chartreuse-dark" alt="python-to-c" />
 </a>
 <a href="https://github.com/aymaneallaoui">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneallaoui&layout=compact&theme=chartreuse-dark" alt="codestats-profile-readme" />
