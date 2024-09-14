@@ -12,6 +12,5 @@
   <img align="middle" src="https://streak-stats.demolab.com/?user=aymaneallaoui&theme=dark" alt="codestats-profile-readme" />
 </a>
 
-<a href="https://app.daily.dev/aymanepraxe"><img src="https://api.daily.dev/devcards/v2/3gtGNpLKb0sfwxpN619L1.png?r=vi4&type=default" width="356" alt="aymane_praxe's Dev Card"/></a>
 
 ---
