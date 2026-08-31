@@ -23,15 +23,6 @@
   <a href="https://github.com/aymaneallaoui">
     <img
       height="170"
-      src="https://github-stats-extended.vercel.app/api?username=aymaneallaoui&show_reviews&show_discussions&show_icons=true&include_all_commits=true&theme=chartreuse-dark"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aymaneallaoui">
-    <img
-      height="170"
       src="https://streak-stats.demolab.com/?user=aymaneallaoui&theme=dark&hide_border=true"
     />
   </a>
