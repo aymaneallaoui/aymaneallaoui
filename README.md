@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building products, APIs, and arguing with distributed systems.
+  Building products, APIs, and messing with distributed systems.
 </p>
 
 <p align="center">
