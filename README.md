@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aymane 👋</h1>
 
 <p align="center">
-  Backend Engineer · TypeScript Enjoyer
+  Backend Engineer · Golang | TypeScript Enjoyer
 </p>
 
 <p align="center">
